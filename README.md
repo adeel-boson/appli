@@ -1,2 +1,11 @@
-# Appli - Job Application Platform
-Appli is a job application platform
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
